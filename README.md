@@ -1,7 +1,1 @@
-#FINAL-PROJECT (DELIVERABLE 3)
-
-1. Diagram out a class diagram of a User repository using Domain-Drive Design principles.  You can draw the class diagram with a PAINT application or on paper and then take a pic with your smartphone and submit that in the pull-request. **5 points**
-**NOTE:** I would expect at least 4 *interfaces* with a minimum of 4 *concrete classes*.  Use *composition* over inheritance, if needed.
-2. Implement the unit-tests for all new concrete classes. **5 points**
-3. Implement code that makes all the unit-tests pass. **10 points**
-
+Finished the inmemoryrepository and refactored so that admin and owner use that instead of an array. 100% functionality and tests pass for admin and owner group which tests all the functionality of the inmemoryrepository. i can send uml diagrams if needed but you said we wont need it
